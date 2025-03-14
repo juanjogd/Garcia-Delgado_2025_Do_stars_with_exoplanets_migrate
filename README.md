@@ -1,4 +1,5 @@
 * N1 - Malu's and exoplanets catalogues match
+  
   Here we tried to crossmatch the catalogue studied in (reference to Dantas_202(3?)) with the exoplanet.eu catalogue. We wanted to check how many host stars in the exoplanet catalogue could be included in the first catalogue, which studied stars under migrating processes. This crossmatch ended in no coincidences between the samples. This is the reason why we started reproducing Dantas_2023 procedure with orbital dynamics calculation, but in this case the sample studied will include the host stars registered in the exoplanet.eu catalogue
 * N2 - Matching exoplanets and Gaia Stars (coordinates approach)
   This didn't take into account observation ephocs, proper motions, etc, so we changed to a crossmatch based on source identifiers
