@@ -37,8 +37,8 @@
 
 * N13 - Orbits_HTC_Condor.ipynb
   
-* catalogue_with_distances.csv:
+* garcia_delgado_catalogue.csv:
 
   This is the whole exoplanet.eu catalogue with some extra columns. These include Gaia parameters brought from the Gaia Archive, magnitudes from 2MASS and AIIWise catalogues, parallax zero-point correction, Bayesian estimations for distances, UNIDAM estimates for ages and stellar orbital dynamics parameters.
 
-  This catalogue will be temporaly 
+  This catalogue will be temporaly unavailable until the results are published
